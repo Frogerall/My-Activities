@@ -1,0 +1,138 @@
+.font {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+p.heading {
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  margin-bottom: 1px;
+}
+.sub {
+  color: grey;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  font-size: 14px;
+}
+.description {
+  width: 230px;
+  line-height: 18px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+.get-started {
+  border: none;
+  border-radius: 4px;
+  padding: 8px 15px;
+  color: white;
+  background-color: rgb(13, 136, 13);
+  transition: opacity 0.5s;
+}
+.get-started:hover {
+  opacity: 0.8;
+}
+.get-started:active {
+  opacity: 0.5;
+}
+h1.news {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 2px;
+}
+.date {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  margin: 0;
+}
+.shop {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.subs {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.Learn {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.new {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 14px;
+  margin: 0;
+}
+.macbook {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 0;
+}
+.super {
+  text-align: center;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.buys {
+  text-align: center;
+  margin-left: 235px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: none;
+  border-radius: 15px;
+  padding: 10px 15px;
+  color: white;
+  background-color: rgb(23, 23, 204);
+}
+.from {
+  text-align: center;
+}
+.price {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+.currency {
+  color: grey;
+  font-size: 18px;
+}
+.rate {
+  margin-top: 0;
+  color: green;
+  margin-bottom: 10px;
+}
+.before {
+  margin-top: 0;
+  color: grey;
+}
+.later {
+  color: red;
+}
+.codecamp {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 3px;
+}
+.hours {
+  color: grey;
+  font-weight: lighter;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.say {
+  width: 450px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 23px;
+  font-size: 14px;
+  margin-top: 0;
+}
+.next {
+  margin-top: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+.go {
+  color: rgb(25, 105, 180);
+}

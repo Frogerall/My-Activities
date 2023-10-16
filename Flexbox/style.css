@@ -1,0 +1,33 @@
+.flex-box-1 {
+  display: flex;
+  margin-bottom: 5px;
+  gap: 5px;
+  text-align: center;
+}
+.primary {
+  background-color: lightblue;
+  width: 100px;
+  flex: 2;
+}
+.secondary {
+  background-color: lightcoral;
+  flex: 1;
+}
+.flex-header {
+  display: flex;
+  height: 50px;
+  justify-content: space-around;
+}
+
+.header-icon {
+  background-color: aqua;
+  width: 100px;
+}
+.header-detail {
+  width: 100px;
+  background-color: pink;
+}
+.header-search {
+  width: 100px;
+  background-color: green;
+}

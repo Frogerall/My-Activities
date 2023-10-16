@@ -1,0 +1,28 @@
+.gridone {
+  display: grid;
+  grid-template-columns: 200px 75px;
+  margin: 10px;
+}
+.main {
+  background-color: blue;
+}
+.gridtwo {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  margin: 10px;
+}
+.blue {
+  background-color: blue;
+}
+.pink {
+  background-color: pink;
+}
+.gridthree {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 1rem;
+}
+.gridfour {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}

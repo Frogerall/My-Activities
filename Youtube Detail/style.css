@@ -1,0 +1,66 @@
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.vid-title {
+  font-weight: bold;
+
+  font-size: 18px;
+  width: 280px;
+  line-height: 24px;
+  margin-bottom: 2px;
+}
+.views {
+  color: #606060;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+.author {
+  color: #606060;
+  font-size: 14px;
+  width: 280px;
+  margin-bottom: 16px;
+  line-height: 20px;
+}
+.description {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #606060;
+  font-size: 14px;
+  width: 280px;
+  margin-bottom: 0;
+  line-height: 20px;
+}
+.youtube-text {
+  margin-bottom: 60px;
+}
+.apple-banner {
+  background-color: red;
+  color: white;
+  padding: 16px;
+  font-size: 14px;
+  text-align: center;
+}
+.link:hover {
+  text-decoration: underline;
+}
+.apple.text {
+  margin-bottom: 80px;
+}
+img,
+svg {
+  vertical-align: middle;
+}
+.bi-apple {
+  color: #959595;
+  width: 24px;
+  height: 24px;
+  margin-left: 3px;
+  margin-bottom: 14px;
+}
+.bi-youtube {
+  color: red;
+  width: 24px;
+  height: 24px;
+  margin-bottom: 6px;
+}

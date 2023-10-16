@@ -1,0 +1,32 @@
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  margin: 0;
+}
+.cat {
+  width: 50px;
+  display: inline-block;
+  vertical-align: top;
+  padding-right: 10px;
+}
+.cats {
+  object-fit: cover;
+  width: 100%;
+  border-radius: 50px;
+  margin-top: 13px;
+}
+.catinfo {
+  display: inline-block;
+  width: 100px;
+}
+
+.cat2 {
+  color: grey;
+  margin-bottom: 10px;
+}
+.cat1 {
+  margin-bottom: 10px;
+}
+.follow {
+  vertical-align: middle;
+}

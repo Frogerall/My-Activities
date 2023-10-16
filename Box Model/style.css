@@ -1,0 +1,77 @@
+.back {
+  padding: 10px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+.next {
+  padding: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+.stretch {
+  border: none;
+  color: white;
+  background-color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+  transition: padding 1s;
+  font-size: 15px;
+}
+.stretch:hover {
+  padding: 20px 45px;
+}
+.shadow {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.7);
+}
+.shadow:active {
+  box-shadow: none;
+  margin: 5px;
+}
+.one {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 0 10px;
+  transition: padding 0.15s, margin 0.15s;
+}
+.one:hover {
+  padding: 8px 25px;
+  margin: 0;
+}
+.two {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 0 10px;
+  transition: padding 0.15s, margin 0.15s;
+}
+.two:hover {
+  padding: 8px 25px;
+  margin: 0;
+}
+.three {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 0 10px;
+  transition: padding 0.15s, margin 0.15s;
+}
+.three:hover {
+  padding: 8px 25px;
+  margin: 0;
+}
